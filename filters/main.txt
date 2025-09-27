@@ -6,10 +6,13 @@ bulbapedia.bulbagarden.net###adthrive-right-rect
 bulbapedia.bulbagarden.net#$##content { margin-right: 10px !important; max-width: inherit !important }
 boardgamegeek.com#?#.amazon_search_ad
 boardgamegeek.com#?#.geekcollection_ad
-boardgamegeek.com##gg-post-inline-ad
+boardgamegeek.com#?#.post-inline-ad
+boardgamegeek.com#?#gg-post-inline-ad
+boardgamegeek.com##gg-leaderboard-lg-ad
 cracked.com#?#.ad-wrapper
 curbed.com#?#.pinboard:has(> .ad)
 fandom.com#?#.top-ads-container
+fandom.com###countdown-clock
 fortune.com#$#.paywallActive { filter: none !important }
 fortune.com#?#.paywall-selector
 fortune.com#?#div[data-cy="rightRailAd"]
@@ -20,9 +23,9 @@ forums.civfanatics.com###bannerBelowContent
 forums.delphiforums.com##.df-adspace
 forums.macrumors.com###tertiary
 governing.com##.Page-billboard
+mashed.com#?#.before-ad
 railforums.co.uk#?#article.message:not(:matches-attr("id"))
 rangerboard.com#?#.block-body:has(> center > ins.adsbygoogle)
-sfgate.com##.adBanner
 streetsblog.org#?#div[class^="AdUnit_wrapper"]
 streetsblog.org#?#div[class^="Sponsorship_articleBannerWrapper"]
 streetsblog.org#?#div[class^="Sponsorship_homepageCardWrapper"]
@@ -30,6 +33,10 @@ streetsblog.org#?#div[class^="Sponsorship_riverCardWrapper"]
 talksport.com#?#.stack-recirc--ad-slot
 talksport.com#?#.stack-recirc--item--ad-slot
 tvtropes.org###header-fad-wrapper
-tvtropes.org##.sb-fad-unit
+tvtropes.org###sticky_ad_container
+tvtropes.org#?#.fad
+tvtropes.org#?#.sb-fad-unit
 wrestlecrap.com#?#div:matches-attr("ad-slot")
 www.fastcompany.com##.ad-container
+www.tcgplayer.com#?#.martech-promos-banner
+ygorganization.com##.a-wrap-base
